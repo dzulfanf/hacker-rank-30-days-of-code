@@ -68,6 +68,7 @@ function main() {
 | 6   | Let's Review                    | ✅      |
 | 7   | Arrays                          | ✅      |
 | 8   | Dictionaries and Maps           | ✅      |
+| 9   | Recursion 3                     | ✅      |
 | ... | ...                             | ⬜      |
 | 30  | Bitwise AND                     | ⬜      |
 
