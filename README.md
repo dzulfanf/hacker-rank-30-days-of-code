@@ -61,9 +61,13 @@ function main() {
 | Day | Challenge                       | Status |
 | --- | ------------------------------- | ------ |
 | 1   | Data Types                      | ✅      |
-| 2   | Operators                       | ⬜      |
-| 3   | Intro to Conditional Statements | ⬜      |
-| 4   | Class vs. Instance              | ⬜      |
+| 2   | Operators                       | ✅      |
+| 3   | Intro to Conditional Statements | ✅      |
+| 4   | Class vs. Instance              | ✅      |
+| 4   | Loops                           | ✅      |
+| 6   | Let's Review                    | ✅      |
+| 7   | Arrays                          | ✅      |
+| 8   | Dictionaries and Maps           | ✅      |
 | ... | ...                             | ⬜      |
 | 30  | Bitwise AND                     | ⬜      |
 
