@@ -69,6 +69,7 @@ function main() {
 | 7   | Arrays                          | ✅      |
 | 8   | Dictionaries and Maps           | ✅      |
 | 9   | Recursion 3                     | ✅      |
+| 10  | Binary Numbers                  | ✅      |
 | ... | ...                             | ⬜      |
 | 30  | Bitwise AND                     | ⬜      |
 
