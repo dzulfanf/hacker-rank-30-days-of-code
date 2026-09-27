@@ -71,6 +71,7 @@ function main() {
 | 9   | Recursion 3                     | ✅      |
 | 10  | Binary Numbers                  | ✅      |
 | 11  | 2D Arrays                       | ✅      |
+| 12  | Inheritance                     | ✅      |
 | ... | ...                             | ⬜      |
 | 30  | Bitwise AND                     | ⬜      |
 
