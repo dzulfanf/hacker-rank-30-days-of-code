@@ -72,6 +72,7 @@ function main() {
 | 10  | Binary Numbers                  | ✅      |
 | 11  | 2D Arrays                       | ✅      |
 | 12  | Inheritance                     | ✅      |
+| 13  | Abstract Classes                | ✅      |
 | ... | ...                             | ⬜      |
 | 30  | Bitwise AND                     | ⬜      |
 
